@@ -1,15 +1,15 @@
 ﻿<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.hostbdc.news" version="1.0">
-<name>hostbdc</name>
+<name>HOSTBDC</name>
 <description>
 Blog hostbdc
 </description>
-<author email="mobile@taydotech.com" href="http://www.barradocorda.ma.gov.br/site/">HOSTBDC</author>
+<author email="central@hostbdc.com.br" href="http://www.hostbdc.com.br/">HOSTBDC</author>
 <content src="index.html"/>
 <access origin="*"/>
 <preference name="AllowInlineMediaPlayback" value="true"/>
 <preference name="MediaPlaybackRequiresUserAction" value="false"/>
-<preference name="webviewbounce" value="false"/>
-<preference name="UIWebViewBounce" value="false"/>
+<preference name="webviewbounce" value="true"/>
+<preference name="UIWebViewBounce" value="true"/>
 <preference name="DisallowOverscroll" value="true"/>
 <preference name="SplashScreenDelay" value="2000"/>
 <preference name="AutoHideSplashScreen" value="true"/>
