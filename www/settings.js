@@ -2,7 +2,7 @@
 var android_packageName = "com.hostbdc.news";
 var apple_id = "1166773798";
 //URL site wordpress
-var wordpress_url = "http://www.hostbdc.com.br/";
+var wordpress_url = "http://www.barradocorda.com/";
 //Posts per page
 var wordpress_per_page = 30;
 //For login with Social
