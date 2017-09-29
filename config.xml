@@ -1,5 +1,5 @@
 ﻿<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.hostbdc.news" version="1.0">
-<name>HOSTBDC</name>
+<name>Blog Demo</name>
 <description>
 Blog hostbdc
 </description>
